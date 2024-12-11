@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Duoduo"
+        tools:targetApi="31">
+        <activity
+            android:name=".TelaDeGerenciarUsuarios"
+            android:exported="false" />
+        <activity
+            android:name=".TelaDePesquisarModulos"
+            android:exported="false" />
+        <activity
+            android:name=".TelaDeGerenciarPerguntas"
+            android:exported="false" />
+        <activity
+            android:name=".TelaDeFuncoesDeAdm"
+            android:exported="false" />
+        <activity
+            android:name=".TelaDeDificuldades"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity24"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity23"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity22"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity21"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity20"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity19"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity18"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity17"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity16"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity15"
+            android:exported="false" />
+        <activity
+            android:name=".TelaDePerguntas"
+            android:exported="false" />
+        <activity
+            android:name=".TelaPosPerguntas"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity3"
+            android:exported="false" />
+        <activity
+            android:name=".TelaDeModulos"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity10"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity9"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity8"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity7"
+            android:exported="false" />
+        <activity
+            android:name=".Activity6"
+            android:exported="false" />
+        <activity
+            android:name=".Menu"
+            android:exported="false" />
+        <activity
+            android:name=".Activity4"
+            android:exported="false" />
+        <activity
+            android:name=".Activity3"
+            android:exported="false" />
+        <activity
+            android:name=".TelaDeCadastro"
+            android:exported="false" />
+        <activity
+            android:name=".SecondActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TelaDeLogin"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

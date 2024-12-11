@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">duoduo</string>
+
+    <string-array name="modulos_array">
+        <item>Java</item>
+        <item>Python</item>
+        <item>C</item>
+        <item>Lógica</item>
+    </string-array>
+
+    <string-array name="dificuldades_array">
+        <item>Fácil</item>
+        <item>Médio</item>
+        <item>Difícil</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,51 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/tituloDificuldade"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:text="Selecione a Dificuldade"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        android:textStyle="bold|italic" />
+
+    <Button
+        android:id="@+id/buttonFacil"
+        android:layout_width="248dp"
+        android:layout_height="58dp"
+        android:layout_marginBottom="16dp"
+        android:backgroundTint="#C5C3C3"
+        android:text="Fácil"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold|italic" />
+
+    <Button
+        android:id="@+id/buttonMedio"
+        android:layout_width="248dp"
+        android:layout_height="58dp"
+        android:layout_marginBottom="16dp"
+        android:backgroundTint="#C5C3C3"
+        android:text="Médio"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold|italic" />
+
+    <Button
+        android:id="@+id/buttonDificil"
+        android:layout_width="248dp"
+        android:layout_height="58dp"
+        android:backgroundTint="#C5C3C3"
+        android:text="Difícil"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold|italic" />
+</LinearLayout>

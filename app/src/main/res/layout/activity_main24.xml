@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F14343"
+    tools:context=".MainActivity24">
+
+    <Button
+        android:id="@+id/button31"
+        android:layout_width="341dp"
+        android:layout_height="78dp"
+        android:backgroundTint="#FFFCFC"
+        android:text="MODULO HTML 1"
+        android:textColor="#090000"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.542"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.753" />
+
+    <Button
+        android:id="@+id/button67"
+        android:layout_width="341dp"
+        android:layout_height="78dp"
+        android:backgroundTint="#FFFCFC"
+        android:text="TESTE DE NIVEL"
+        android:textColor="#090000"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.431" />
+
+    <TextView
+        android:id="@+id/textView35"
+        android:layout_width="336dp"
+        android:layout_height="62dp"
+        android:background="#00FFFCFC"
+        android:backgroundTint="#F1EBEB"
+        android:textColor="#FFFCFC"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.506"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.177" />
+
+    <Button
+        android:id="@+id/button68"
+        android:layout_width="341dp"
+        android:layout_height="78dp"
+        android:backgroundTint="#FFFCFC"
+        android:text="MODULO JAVA 1"
+        android:textColor="#090000"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.542"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.592" />
+</androidx.constraintlayout.widget.ConstraintLayout>

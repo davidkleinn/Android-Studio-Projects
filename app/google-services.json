@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "545842720160",
+    "project_id": "duoprog-6a036",
+    "storage_bucket": "duoprog-6a036.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545842720160:android:9cab07fb1e6b74bc35c8c5",
+        "android_client_info": {
+          "package_name": "com.example.duoduo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwfpjtK35ZBYpuKBfp3WeCNAgN7ZMn5WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
