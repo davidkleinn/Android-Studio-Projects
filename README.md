@@ -1,7 +1,7 @@
 # TrabNarak-24.2 - Plataformas Móveis - Turma T197
 
 # Relatório final
-[TemplateDesenvolvimentoPlatMoveis.pdf.pdf](https://github.com/user-attachments/files/18049938/TemplateDesenvolvimentoPlatMoveis.pdf.pdf)
+[TemplateDesenvolvimentoPlatMoveis.pdf.pdf](documentacaoatualizada (2).pdf)
 
 # Integrantes 
 
